@@ -13,6 +13,10 @@ This is official Pytorch implementation of "[Plug-and-Play General Image Registr
  - [ ] pillow  10.2.0
  - [ ] scikit-learn  1.4.1
  - [ ] scikit-image  0.23.2
+ - [ ] tensorboardX  2.6.2.2
+ - [ ] h5py  3.10.0
+ - [ ] matplotlib  3.8.4
+ - [ ] numpy  1.26.3
 
 ## Dataset
 Please download the following datasets:
