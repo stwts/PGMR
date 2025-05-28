@@ -30,6 +30,8 @@ Please place the pre-trained model weights in ‘/checkpoint’. Please place th
 #### SPECT-MRI
     python test.py --modal_orign=MRI --modal_target==SPECT
 
+## To Train
+Please place the datasets in ‘/train_dataset’.
     
 ## If this work is helpful to you, please cite it as：
 ```
