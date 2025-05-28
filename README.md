@@ -4,6 +4,15 @@ This is official Pytorch implementation of "[Plug-and-Play General Image Registr
 ## Framework
 ![The overall framework of the proposed PGMR.](https://github.com/stwts/PGMR/blob/main/figure/framework.jpg)
 
+## Recommended Environment
+
+ - [ ] torch  2.2.0 
+ - [ ] torchvision 0.17.0 
+ - [ ] kornia 0.7.1
+ - [ ] opencv  4.7.0 
+ - [ ] pillow  10.2.0
+
+
 ## If this work is helpful to you, please cite it as：
 ```
 @ARTICLE{11005625,
