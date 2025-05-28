@@ -19,6 +19,12 @@ Please download the following datasets:
 *   [PET-MRI](https://www.med.harvard.edu/AANLIB/home.html)
 *   [SPECT-MRI](https://www.med.harvard.edu/AANLIB/home.html)
 
+## To Test
+Please place the pre-trained model weights in ‘/checkpoint’. Please place the data to be registered in ‘/test_dataset/orign’, and the reference data in ‘/test_dataset/target’.
+#### MSRS dataset
+    python test.py --mode=Reg --dataset_name=MSRS 
+
+    
 ## If this work is helpful to you, please cite it as：
 ```
 @ARTICLE{11005625,
