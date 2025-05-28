@@ -11,6 +11,7 @@ This is official Pytorch implementation of "[Plug-and-Play General Image Registr
  - [ ] kornia 0.7.1
  - [ ] opencv  4.7.0 
  - [ ] pillow  10.2.0
+ - [ ] scikit-learn  1.4.1
 
 ## Dataset
 Please download the following datasets:
