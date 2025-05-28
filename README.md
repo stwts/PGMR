@@ -32,6 +32,8 @@ Please place the pre-trained model weights in ‘/checkpoint’. Please place th
 
 ## To Train
 Please place the datasets in ‘/train_dataset’.
+
+    python train.py
     
 ## If this work is helpful to you, please cite it as：
 ```
