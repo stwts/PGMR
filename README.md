@@ -21,6 +21,7 @@ Please download the following datasets:
 
 ## To Test
 Please place the pre-trained model weights in ‘/checkpoint’. Please place the data to be registered in ‘/test_dataset/orign’, and the reference data in ‘/test_dataset/target’.
+
     python test.py --mode=Reg --dataset_name=MSRS 
 
     
