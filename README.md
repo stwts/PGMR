@@ -20,11 +20,11 @@ Please download the following datasets:
 *   [SPECT-MRI](https://www.med.harvard.edu/AANLIB/home.html)
 
 ## Pretrained Models
-1. Pretrained models of registration subnetwork <b> MPDR </b> are as follows:
+1. Pretrained models of registration are as follows:
 *   [regisration_model]() (code: wyi0) or [regisration_model]() (Google Link)
 
 
-2. Pretrained models of fusion subnetwork <b> TCF </b> are as follows:
+2. Pretrained models of detail enhancement are as follows:
 *   [detail_enhancement_model]() (code: nju6) or [detail_enhancement_model]() (Google Link)
 
   
