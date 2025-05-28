@@ -12,6 +12,7 @@ This is official Pytorch implementation of "[Plug-and-Play General Image Registr
  - [ ] opencv  4.7.0 
  - [ ] pillow  10.2.0
  - [ ] scikit-learn  1.4.1
+ - [ ] scikit-image  0.23.2
 
 ## Dataset
 Please download the following datasets:
