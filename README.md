@@ -21,8 +21,14 @@ Please download the following datasets:
 
 ## To Test
 Please place the pre-trained model weights in ‘/checkpoint’. Please place the data to be registered in ‘/test_dataset/orign’, and the reference data in ‘/test_dataset/target’.
-
-    python test.py --mode=Reg --dataset_name=MSRS 
+#### RGB-IR
+    python test.py --modal_orign=ir --modal_target==vi
+#### RGB-SAR
+    python test.py --modal_orign=sar --modal_target==vi
+#### PET-MRI
+    python test.py --modal_orign=MRI --modal_target==PET
+#### SPECT-MRI
+    python test.py --modal_orign=MRI --modal_target==SPECT
 
     
 ## If this work is helpful to you, please cite it as：
