@@ -31,7 +31,7 @@ Please download the following datasets:
 
 
 2. Pretrained models of detail enhancement are as follows:
-*   [detail_enhancement_model](https://pan.baidu.com/s/15syLcUc77Zolvb_SuQHRRg) (code: 6c62) or [detail_enhancement_model]() (Google Link)
+*   [detail_enhancement_model](https://pan.baidu.com/s/15syLcUc77Zolvb_SuQHRRg) (code: 6c62) or [detail_enhancement_model](https://drive.google.com/file/d/1qzZttqdoRFmqJmloY73QhOurTRmhvPwW/view?usp=sharing) (Google Link)
 
   
 ## To Test
