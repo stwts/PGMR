@@ -27,11 +27,11 @@ Please download the following datasets:
 
 ## Pretrained Models
 1. Pretrained models of registration are as follows:
-*   [regisration_model]() (code: ) or [regisration_model]() (Google Link)
+*   [regisration_model](https://pan.baidu.com/s/15cb0ifOepvZuhPLz9VN4hA) (code: y8ai) or [regisration_model]() (Google Link)
 
 
 2. Pretrained models of detail enhancement are as follows:
-*   [detail_enhancement_model]() (code: ) or [detail_enhancement_model]() (Google Link)
+*   [detail_enhancement_model](https://pan.baidu.com/s/15syLcUc77Zolvb_SuQHRRg) (code: 6c62) or [detail_enhancement_model]() (Google Link)
 
   
 ## To Test
